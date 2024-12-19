@@ -1,0 +1,7 @@
+pyproject.toml
+src/hello_world.egg-info/PKG-INFO
+src/hello_world.egg-info/SOURCES.txt
+src/hello_world.egg-info/dependency_links.txt
+src/hello_world.egg-info/requires.txt
+src/hello_world.egg-info/top_level.txt
+src/tdse2412gc/hello_world.py
